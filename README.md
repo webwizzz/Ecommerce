@@ -1,11 +1,10 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-
-project completed
+<img width="1440" alt="Screenshot 2024-10-28 at 7 35 39 PM" src="https://github.com/user-attachments/assets/ee99fae0-3d70-42b8-a104-232c32c0e73a">
+<img width="1440" alt="Screenshot 2024-10-28 at 7 39 10 PM" src="https://github.com/user-attachments/assets/ae834385-2c52-42a6-9327-c3c624cb8c28">
+<img width="1440" alt="Screenshot 2024-10-28 at 7 38 47 PM" src="https://github.com/user-attachments/assets/344eacbd-99cf-4ce9-9cce-b4768712ee9b">
+<img width="1440" alt="Screenshot 2024-10-28 at 7 38 57 PM" src="https://github.com/user-attachments/assets/5c7db2fa-1d4b-4c5d-b136-92d56bf3f8d2">
+<img width="1440" alt="Screenshot 2024-10-28 at 7 36 12 PM" src="https://github.com/user-attachments/assets/8f33fff0-282d-4901-945c-0128adbcb2e3">
+<img width="1440" alt="Screenshot 2024-10-28 at 7 36 02 PM" src="https://github.com/user-attachments/assets/20796add-8b5d-4f42-8ed4-2302ef054a90">
+<img width="1440" alt="Screenshot 2024-10-28 at 7 39 21 PM" src="https://github.com/user-attachments/assets/d5a1479c-acc5-4b60-8780-6d95b9e2e87d">
+<img width="1440" alt="Screenshot 2024-10-28 at 7 39 27 PM" src="https://github.com/user-attachments/assets/ca80f063-617b-4dd7-b3e1-70c59756300d">
+<img width="1440" alt="Screenshot 2024-10-28 at 7 39 39 PM" src="https://github.com/user-attachments/assets/7ac72642-8984-41b3-bbf9-15610af9efdc">
+<img width="1440" alt="Screenshot 2024-10-28 at 7 39 44 PM" src="https://github.com/user-attachments/assets/af43e566-d7ea-45bd-9427-d8539516d1ca">
